@@ -1,0 +1,9 @@
+pycocotools
+tqdm
+cython
+scipy
+pandas
+seaborn
+einops
+numpy
+torch
